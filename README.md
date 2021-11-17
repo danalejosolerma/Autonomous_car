@@ -16,6 +16,7 @@ Items:
 1 Receiver FS-ia6  
 2 HC-SR04 Ultrasonic sensors  
 1 Boost converter (5-32V) For the Jetson Nano  
+1 Dragon touch camera
 MC33886 Motor driver (L298N is not well suited)  
 Aluminium plate with 25 cm of lenght and 16 cm of width  
 4 new shock absorbers  
